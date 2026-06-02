@@ -2,7 +2,7 @@
 
 # ✨ Hi, I'm Manjusree Baskaran 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Enthusiast;Generative+AI+Explorer;Python+Developer;Future+Software+Engineer;Building+Projects+%26+Learning+Everyday" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Enthusiast;Generative+AI+Explorer;Python+Developer;Future+Software+developer;Building+Projects+%26+Learning+Everyday" />
 
 <br>
 
@@ -24,7 +24,6 @@ Education:
 
 Interests:
   - Artificial Intelligence
-  - Machine Learning
   - Generative AI
   - Natural Language Processing
   - Software Development
@@ -35,7 +34,7 @@ Current Focus:
   - Improving Problem Solving Skills
 
 Goal:
-  Become an AI Engineer & Software Developer
+  Become a Software Developer
 ```
 
 ---
@@ -62,18 +61,14 @@ Goal:
 # 🤖 AI & Data Science
 
 <img src="https://img.shields.io/badge/Generative%20AI-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangChain-00C853?style=for-the-badge" />
 <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LLMs-9C27B0?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Gemini%20AI-FF9800?style=for-the-badge" />
 
 ### Areas I'm Exploring
 
-✔ Prompt Engineering
 
 ✔ Large Language Models (LLMs)
-
-✔ LangChain Applications
 
 ✔ AI Workflows
 
@@ -91,20 +86,20 @@ Goal:
 A collection of AI experiments exploring modern Generative AI technologies.
 
 ### Technologies
-- Python
-- Gemini AI
-- LangChain
-- NLP
-- Jupyter Notebook
-- Google Colab
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,jupyter" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge" />
+</p>
 
 ### Highlights
 
 ✨ Prompt Engineering Experiments
 
 ✨ LLM-Based Workflows
-
-✨ LangChain Integration
 
 ✨ AI Pipeline Development
 
@@ -116,7 +111,6 @@ A collection of AI experiments exploring modern Generative AI technologies.
 Generative AI
 Prompt Engineering
 Python
-LangChain
 NLP
 AI Development
 ```
@@ -131,9 +125,9 @@ An interactive quiz platform with built-in anti-cheating mechanisms.
 
 ### Technologies
 
-- HTML
-- CSS
-- JavaScript
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
 
 ### Features
 
@@ -167,8 +161,11 @@ Inventory management application developed using Object-Oriented Programming pri
 
 ### Technologies
 
-- Java
-- OOP
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="60"/>
+  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-OOP-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CRUD%20Operations-Implemented-success?style=for-the-badge"/>
+</p>
 
 ### Features
 
@@ -205,54 +202,13 @@ Software Design
 
 ---
 
-# 📚 Currently Learning
-
-```python
-skills_loading = [
-    "Machine Learning",
-    "Deep Learning",
-    "Data Analytics",
-    "Power BI",
-    "Advanced Python",
-    "LangChain",
-    "AI Agents"
-]
-
-for skill in skills_loading:
-    print(f"Learning {skill} 🚀")
-```
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manju27530&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manju27530&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manju27530&theme=tokyonight"/>
-
-</div>
-
----
-
 # 🌍 Languages
 
-🇮🇳 Tamil — Native
+ Tamil — Native
 
-🇬🇧 English — Professional Working Proficiency
+ English — Professional Working Proficiency
 
-🇮🇳 Hindi — Basic Knowledge
+ Hindi — Basic Knowledge
 
 ---
 
